@@ -2,6 +2,7 @@
 
 💻 Technologies I'm interested in:
 - Python
+- Django
 - C#
 - Linux
   
