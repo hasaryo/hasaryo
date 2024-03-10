@@ -11,4 +11,13 @@
 
 <br>
 
+<h2>💻 Operational System:</h2>
+
+<br>
+
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasaryo&show_icons=true&theme=dracula)
