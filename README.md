@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Hasaryo</h1>
-<h3 align="center">Full Stack Developer | Python Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Back End Developer | Python Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BCDEC&center=true&vCenter=true&width=435&lines=Passionate+about+coding;Always+learning+new+tech;Clean+code+advocate" alt="Typing SVG" /></a>
