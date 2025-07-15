@@ -37,8 +37,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaryo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasaryo&theme=dracula" alt="hasaryo" />
-</div>
-
 ---
